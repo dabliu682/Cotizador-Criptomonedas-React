@@ -1,4 +1,4 @@
 # Cotizador-Criptomonedas-React
 ### Temas tratados
-> Hoock's style
+> Hoock's style <br>
 > Hoock's propios
